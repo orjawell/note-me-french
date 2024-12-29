@@ -111,6 +111,8 @@ It borrows the style of GitHub's admonition.
 > [!CAUTION]
 > Negative potential consequences of an action.
 
+In this fork, all the notes is translated in French for thoses work in some French speaking universities / enterprise 
+
 ## Credits
 
 The admonition icons are from [Octicons](https://github.com/primer/octicons).
