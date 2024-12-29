@@ -86,7 +86,7 @@
   color: rgb(9, 105, 218),
   children
 )
-#let tip(title: "Tip", children) = admonition(
+#let tip(title: "Astuce", children) = admonition(
   icon-path: "icons/light-bulb.svg",
   title: title,
   color: rgb(31, 136, 61),
@@ -98,13 +98,13 @@
   color: rgb(130, 80, 223),
   children
 )
-#let warning(title: "Warning", children) = admonition(
+#let warning(title: "Avertissement", children) = admonition(
   icon-path: "icons/alert.svg",
   title: title,
   color: rgb(154, 103, 0),
   children
 )
-#let caution(title: "Caution", children) = admonition(
+#let caution(title: "Attention", children) = admonition(
   icon-path: "icons/stop.svg",
   title: title,
   color: rgb(209, 36, 47),
